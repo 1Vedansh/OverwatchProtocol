@@ -29,6 +29,8 @@ A Unity game created for Zense recruitment.
 
 - **Shoot**: Hold the left mouse button to fire automatically.
 
+- **Leave Game**: Press Escape in-game to exit the game.
+
 - **Sensitivity** : You can change your sensitivity in the main menu settings.
 
 - **Loading Time** : Loading a map can take 10 to 20 seconds.
@@ -52,4 +54,11 @@ A Unity game created for Zense recruitment.
 
 - Navigate to the cloned repository folder and select it.
 
-** It is also available to play online at : https://strangecraft.itch.io/overwatch-protocol
+It is also available to play online at : https://strangecraft.itch.io/overwatch-protocol
+
+## Challenges faced:
+- Learning 3D mesh manipulation was a whole new experience for me. It was a bit unintuitive at first, but over time I got the hang of it.
+
+- Animation was my weakest area; I don’t like animating things, so instead, I tried to create procedural animations that are done through code. For example, the recoil is procedural and can be modified as desired.
+
+- Finding the correct spawn logic for the enemy was tricky as I had to find the right balance of gameplay difficulty and player enjoyment. 
