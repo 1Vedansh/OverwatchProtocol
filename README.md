@@ -17,7 +17,9 @@ A Unity game created for Zense recruitment.
 
 ## Development Tools
 - **Game Engine**: Unity
+
 - **Models & Sound Effects**: Unity Asset Store and Various Other Free Sources.
+
 - **Animations**: Some created by me, and others sourced from Mixamo.
 
 ## How To Play
@@ -32,3 +34,22 @@ A Unity game created for Zense recruitment.
 - **Loading Time** : Loading a map can take 10 to 20 seconds.
 
 **Demo Gameplay** : https://www.youtube.com/watch?v=60y8AslfLNA
+
+## Future Scope
+- Add a multiplayer co-op feature.
+
+- Add more exciting and diverse types of enemies.
+
+- Add a boss level.
+
+- Experiment with more procedural generation.
+
+## Installation & Setup
+1. **Clone the Repository**
+
+2. **Open in Unity:**
+- Open Unity Hub and click on "Add" -> "Add project from disk".
+
+- Navigate to the cloned repository folder and select it.
+
+** It is also available to play online at : https://strangecraft.itch.io/overwatch-protocol
