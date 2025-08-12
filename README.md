@@ -21,4 +21,14 @@ A Unity game created for Zense recruitment.
 - **Animations**: Some created by me, and others sourced from Mixamo.
 
 ## How To Play
-- **Movement**: 
+- **Movement**: WASD to move, Spacebar to jump, Shift to sprint.
+
+- **Scope**: Use the right mouse button to scope with the rifle, and the scroll wheel to zoom in or out.
+
+- **Shoot**: Hold the left mouse button to fire automatically.
+
+- **Sensitivity** : You can change your sensitivity in the main menu settings.
+
+- **Loading Time** : Loading a map can take 10 to 20 seconds.
+
+**Demo Gameplay** : https://www.youtube.com/watch?v=60y8AslfLNA
