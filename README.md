@@ -1,6 +1,4 @@
 # OverwatchProtocol
-Unity game created for Zense recruitment.
-# OverwatchProtocol
 A Unity game created for Zense recruitment.
 
 ## Overview
